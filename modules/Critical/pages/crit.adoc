@@ -1,0 +1,13 @@
+:doctype: book
+
+image::images/Untitled.jpg[bicho]
+
+= Mira que carpinchos
+
+image::images/boca4.jpg[bicho]
+
+== Gaturro
+
+El gato ese feo y cacheton
+
+image::images/SalaciousCrumb.jpeg[bicho]

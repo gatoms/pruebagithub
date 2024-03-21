@@ -1,0 +1,3 @@
+= Welcome to STX Documentation
+
+Here you can find information on the different modules and concepts of the SecureTX suite of programs.
