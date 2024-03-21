@@ -1,2 +1,5 @@
 name: stx-docs
 version: '6.0.0'
+nav:
+- modules/ROOT/nav.adoc
+- modules/critical/nav.adoc
