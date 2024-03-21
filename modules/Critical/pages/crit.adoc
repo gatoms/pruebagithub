@@ -1,13 +1,11 @@
 :doctype: book
 
-image::Untitled.jpg[bicho]
+image::Untitled.jpg[]
 
 = Mira que carpinchos
 
-image::boca4.jpg[bicho]
+image::boca4.jpg[]
 
 == Gaturro
 
-El gato ese feo y cacheton
-
-image::SalaciousCrumb.jpeg[bicho]
+Kakaroto es goku pero kaka.
