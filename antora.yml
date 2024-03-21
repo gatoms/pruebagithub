@@ -1,5 +1,6 @@
 name: stx-docs
 version: '6.0.0'
+start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/critical/nav.adoc
