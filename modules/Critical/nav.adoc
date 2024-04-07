@@ -1,2 +1,0 @@
-* xref:crit.adoc[]
-* xref:otro.adoc[]

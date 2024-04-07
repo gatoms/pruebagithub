@@ -1,5 +1,5 @@
 = Welcome to STX Documentation
 
-Here you can find information on the different modules and concepts of the SecureTX suite of programs.
+Here you can find information on the different modules and concepts of the Pichula suite of programs.
 
 image::cover6.jpg[]
