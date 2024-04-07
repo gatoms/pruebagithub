@@ -1,6 +1,6 @@
 name: stx-docs
 version: 
-  true
+  (?<version>+({0..9}).+({0..9})).x: $<version> 
 start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
